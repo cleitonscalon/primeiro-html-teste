@@ -1,5 +1,9 @@
 
-h1 {
+ * {
+    background-color: greenyellow;
+ }
+ 
+ h1 {
     color: brown;
     text-align: center;
     font-size: 130px;
